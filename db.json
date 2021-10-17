@@ -2,7 +2,7 @@
     "cheesecakes": [
         {
             "id": 0,
-            "name": "Original",
+            "name": "ORIGINAL",
             "restaurant": "Cheesecake Factory",
             "web": "https://www.thecheesecakefactory.com/menu/desserts/cheesecakes/original/",
             "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
@@ -37,6 +37,30 @@
                     "country": "USA"
                 }
             ]
-        }
+        },
+        {
+            "id": 2,
+            "name": "CHOCOLATE CARAMELICIOUS CHEESECAKE MADE WITH SNICKERS®",
+            "restaurant": "Cheesecake Factory",
+            "web": "https://www.thecheesecakefactory.com/menu/desserts/cheesecakes/chocolate-caramelicious-cheesecake-made-with-snickers/",
+            "description": "Original Cheesecake Swirled with Snickers® on a Brownie Crust with Chocolate, Caramel and Peanuts.",
+            "ingredients": [
+              "cream cheese",
+              "chocolate",
+              "caramel",
+              "peanuts"
+            ],
+            "addresses": [
+              {
+                "addressId": "0",
+                "number": "26901",
+                "line1": "Malibu Hills Road",
+                "city": "Calabasas",
+                "state": "CA",
+                "postcode": "91301",
+                "country": "USA"
+              }
+            ]
+          }
     ]
 }
